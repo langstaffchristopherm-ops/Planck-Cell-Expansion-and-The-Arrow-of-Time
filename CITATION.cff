@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Planck-Cell Expansion"
+abstract: >
+  Replaces geometric expansion with a tick-count law where the scale factor
+  a(k) ∝ k^{1/3} arises from cumulative entropy rather than curvature. 
+  The Planck-Cell S/t framework links macroscopic expansion to microscopic
+  entropy production, preserving observational integrals of standard cosmology
+  while recasting the Hubble parameter as an entropic growth rate.
+  Repository contains the release PDF and LaTeX source.
+
+authors:
+  - family-names: "Langstaff"
+    given-names: "Christopher Michael"
+
+version: "v2.0.3"
+date-released: "2025-10-23"
+repository-code: "https://github.com/langstaffchristopherm-ops/Planck-Cell-Expansion-and-The-Arrow-of-Time"
+url: "https://github.com/langstaffchristopherm-ops/Planck-Cell-Expansion-and-The-Arrow-of-Time"
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.17428937"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17216181"
+
+preferred-citation:
+  type: article
+  title: "Planck-Cell Expansion"
+  authors:
+    - family-names: "Langstaff"
+      given-names: "C."
+  year: 2025
+  doi: "10.5281/zenodo.17428937"
+  url: "https://doi.org/10.5281/zenodo.17428937"
+  journal: "Zenodo"
